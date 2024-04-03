@@ -26,6 +26,12 @@ git clone <repository-url>
 # Install dependencies
 pip install -r requirements.txt
 
+Tailor each section to fit the specific details of your project, such as adding the exact commands under "Installation" and "Usage", detailing the contribution guidelines, and specifying the license type under "License".
+
+
+
+
+
 
 
 

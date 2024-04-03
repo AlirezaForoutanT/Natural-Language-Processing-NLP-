@@ -1,5 +1,4 @@
 # Natural-Language-Processing-NLP-
-## Sentiment Analysis on Amazon Book Reviews
 
 ## Overview
 This project is dedicated to predicting Amazon book ratings through the sentiment analysis of book reviews. Utilizing various machine learning models and natural language processing (NLP) techniques, the aim is to effectively discern between positive, negative, and neutral sentiments in reviews and predict their corresponding ratings.
